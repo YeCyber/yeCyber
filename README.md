@@ -2,9 +2,9 @@
 
 ![Banner tecnológico](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-### 🛡️ Estudiante de Ingeniería en Ciberseguridad | RedSideCyber
+### 🛡️ Estudiante de Ingeniería en Ciberseguridad |
 
-Soy de República Dominicana 🇩🇴 y estudio Ingeniería en
+Soy de República Dominicana y estudio Ingeniería en
 Ciberseguridad en UNICARIBE. Me interesa comprender cómo
 funcionan los ataques y cómo proteger los sistemas frente a ellos.
 
