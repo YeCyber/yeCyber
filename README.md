@@ -25,24 +25,32 @@ Aprendo mediante laboratorios, proyectos y práctica constante.
 - Practicar en laboratorios de Hack The Box y TryHackMe.
 - Documentar mis aprendizajes y construir mi portafolio.
 
-## 🧰 Herramientas que utilizo en mis prácticas
+## 🧰 Tecnologías y herramientas que practico
 
-Linux · Kali Linux · Nmap · Wireshark  
-Wazuh · Burp Suite · Python · Git
+### 💻 Programación y bases de datos
 
-## 🚀 Mi objetivo
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
 
-Desarrollarme como analista de ciberseguridad, con bases sólidas
-en detección y respuesta a incidentes, y seguir ampliando mis
-conocimientos de seguridad ofensiva.
+### 🐧 Sistemas operativos
 
-## ⚾ Más allá de la tecnología
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-Disfruto del béisbol, la lectura y el cine.
-Mi película favorita es Interstellar.
+### 🛡️ Ciberseguridad
 
----
+![Wazuh](https://img.shields.io/badge/Wazuh-0078D4?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
-💡 Aprender, practicar y compartir: un paso a la vez.
+### 🔧 Control de versiones
 
-Banner: [halfrost](https://github.com/halfros
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 📊 Mi actividad en GitHub
+
+![Mi actividad](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YeCyber&theme=github_dark)
